@@ -1,7 +1,10 @@
 # Food Ordering App UI 🍽️
 
-**Repo:** [https://github.com/prashantbiradar04/Food_Ordering_App_UI](https://github.com/prashantbiradar04/Food_Ordering_App_UI)
+#Live Demo : https://food-ordering-system-ui.vercel.app/
+
+
 **Platform:** Flutter (Android & iOS)
+
 
 ---
 
