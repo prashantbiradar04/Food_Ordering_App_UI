@@ -1,16 +1,57 @@
-# food_delivery
+# Food Ordering App UI 🍽️
 
-A new Flutter project.
+**Repo:** [https://github.com/prashantbiradar04/Food_Ordering_App_UI](https://github.com/prashantbiradar04/Food_Ordering_App_UI)
+**Platform:** Flutter (Android & iOS)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Project Overview
 
-A few resources to get you started if this is your first Flutter project:
+Food Ordering App UI is a frontend-only Flutter application showcasing a clean and modern interface for food browsing and ordering. It demonstrates your ability to build responsive, scalable UI layouts suitable for real-world mobile apps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project focuses on UI/UX only — no backend, API, or cart logic is included.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features (UI)
+
+* Fully responsive mobile UI
+* Modern food item cards with images, price, and layout styling
+* Category-based menu structure
+* Smooth navigation-ready project structure
+* Lightweight and easy to extend into a full application
+
+---
+
+## 🧰 Tech Stack & Dependencies
+
+* **Flutter** — UI framework
+* **Dart** — programming language
+* **iOS platform code** (Swift) — minor auto-generated support
+
+Dependencies can be found in `pubspec.yaml`.
+
+---
+
+
+## 📁 Project Structure
+
+```
+Food_Ordering_App_UI/
+├── android/            # Android config
+├── ios/                # iOS config
+├── lib/                # Main Flutter source code
+├── assets/             # Icons, images
+├── test/               # Optional tests
+├── pubspec.yaml        # Dependencies & metadata
+└── README.md           # Documentation
+```
+
+
+## 📜 License & Credits
+
+This project is available for personal and educational use.
+Consider adding an MIT license if open-sourcing.
+
+© 2025 Prashant Biradar
+
